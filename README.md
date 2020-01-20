@@ -1,8 +1,8 @@
 # python
 
 </br>
-![Exercise 1] (https://github.com/sommedosa/python-exercise1/edit/master/README.md) </br>
+Exercise 1 : tiny.cc/5qhxiz</br>
 
 
 </br>
-Exercise 2 </br>
+Exercise 2 : tiny.cc/0phxiz   </br>
