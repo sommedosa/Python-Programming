@@ -3,7 +3,7 @@
 [Exercise 1](https://github.com/sommedosa/python-exercise1) </br>
 [Exercise 2](https://github.com/sommedosa/python-exercise2) </br>
 [Exercise 3](https://github.com/sommedosa/python-exercise3) </br>
-Exercise 4  </br>
+[Exercise 4](https://github.com/sommedosa/python-exercise4)</br>
 Exercise 5  </br>
 Exercise 6  </br>
 Exercise 7  </br>
