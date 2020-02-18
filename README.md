@@ -14,4 +14,4 @@
 [Exercise 12](https://github.com/sommedosa/python-exercise12)  </br>
 [Exercise 13](https://github.com/sommedosa/python-exercise13)  </br>
 [Exercise 14](https://github.com/sommedosa/python-exercise14)  </br>
-[Exercise 15](https://github.com/sommedosa/python-exercise1)  </br>
+[Exercise 15](https://github.com/sommedosa/python-exercise15)  </br>
