@@ -3,8 +3,8 @@
 [Exercise 1](https://github.com/sommedosa/python-exercise1) </br>
 [Exercise 2](https://github.com/sommedosa/python-exercise2) </br>
 [Exercise 3](https://github.com/sommedosa/python-exercise3) </br>
-[Exercise 4](https://github.com/sommedosa/python-exercise4) </br>
-[Exercise 5](https://github.com/sommedosa/python-exercise5) </br>
+[04-Decision Structures #1](https://github.com/sommedosa/04-Decision-Structures1) </br>
+[05-Decision Structures #2](https://github.com/sommedosa/05-Decision-Structures2) </br>
 [06-Repetition #1](https://github.com/sommedosa/06-Repetition1) </br>
 [07-Repetition #2](https://github.com/sommedosa/07-Repetition2)  </br>
 [Exercise 8](https://github.com/sommedosa/python-exercise8)  </br>
