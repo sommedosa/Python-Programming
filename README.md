@@ -5,8 +5,8 @@
 [Exercise 3](https://github.com/sommedosa/python-exercise3) </br>
 [Exercise 4](https://github.com/sommedosa/python-exercise4) </br>
 [Exercise 5](https://github.com/sommedosa/python-exercise5) </br>
-[Exercise 6](https://github.com/sommedosa/python-exercise6) </br>
-[Exercise 7](https://github.com/sommedosa/python-exercise7)  </br>
+[06-Repetition #1](https://github.com/sommedosa/06-Repetition1) </br>
+[07-Repetition #2](https://github.com/sommedosa/07-Repetition2)  </br>
 [Exercise 8](https://github.com/sommedosa/python-exercise8)  </br>
 [Exercise 9](https://github.com/sommedosa/python-exercise9)  </br>
 [Exercise 10](https://github.com/sommedosa/python-exercise10)  </br>
