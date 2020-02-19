@@ -1,8 +1,8 @@
 ## CN101 & TU156 Introduction to Computer Programming
 
-[01-Introduction to Computers and Programming](https://github.com/sommedosa/python-exercise1) </br>
-[02-Processing, and Output](https://github.com/sommedosa/python-exercise2) </br>
-[03-Input, Operator](https://github.com/sommedosa/python-exercise3) </br>
+[01-Introduction to Computers and Programming](https://github.com/sommedosa/01-Introduction-to-Computers-and-Programming) </br>
+[02-Processing, and Output](https://github.com/sommedosa/02-Processing-and-Output) </br>
+[03-Input, Operator](https://github.com/sommedosa/03-Input-Operator) </br>
 [04-Decision Structures and Boolean Logic](https://github.com/sommedosa/04-Decision-Structures1) </br>
 [05-Nest Decision Structures](https://github.com/sommedosa/05-Decision-Structures2) </br>
 [06-Repetition Structures](https://github.com/sommedosa/06-Repetition1) </br>
