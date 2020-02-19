@@ -1,4 +1,4 @@
-**CN101 & TU156 Introduction to Computer Programming**
+## CN101 & TU156 Introduction to Computer Programming
 
 [01-Introduction to Computers and Programming](https://github.com/sommedosa/python-exercise1) </br>
 [02-Processing, and Output](https://github.com/sommedosa/python-exercise2) </br>
