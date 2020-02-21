@@ -1,5 +1,4 @@
-## CN101 & TU156 
-## Introduction to Computer Programming
+## CN101 : Introduction to Computer Programming
 
 [Syllabus](https://github.com/sommedosa/CN101-TU156) </br>
 [01-Introduction to Computers and Programming](https://github.com/sommedosa/01-Introduction-to-Computers-and-Programming) </br>
