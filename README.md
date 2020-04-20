@@ -8,11 +8,10 @@
 [05-Nested Decision Structures](https://github.com/sommedosa/05-Decision-Structures2) </br>
 [06-Repetition Structures](https://github.com/sommedosa/06-Repetition1) </br>
 [07-Nested Repetition Structures](https://github.com/sommedosa/07-Repetition2)  </br>
-[08-Functions #1](https://github.com/sommedosa/python-exercise8)  </br>
-[09-Functions #2](https://github.com/sommedosa/python-exercise9)  </br>
-[10-Lists](https://github.com/sommedosa/python-exercise10)  </br>
-[11-Tuples](https://github.com/sommedosa/python-exercise11)  </br>
-[12-Tuples](https://github.com/sommedosa/python-exercise12)  </br>
-[13-Strings](https://github.com/sommedosa/python-exercise13)  </br>
-[14-Strings](https://github.com/sommedosa/python-exercise14)  </br>
-[15-Pretest](https://github.com/sommedosa/python-exercise15)  </br>
+[08-Functions](https://github.com/sommedosa/08-Functions)  </br>
+[09-Lists#1](https://github.com/sommedosa/09-List1)  </br>
+[10-Lists#2](https://github.com/sommedosa/10-List2)  </br>
+[11-Tuples](https://github.com/sommedosa/11-Tuple)  </br>
+[12-Quiz1](https://github.com/sommedosa/12-Quiz1)  </br>
+[13-Quiz2](https://github.com/sommedosa/13-Quiz2)  </br>
+[14-Quiz3](https://github.com/sommedosa/14-Quiz3)  </br>
